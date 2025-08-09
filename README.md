@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 저는 **대학교 3학년**으로 재학 중이며, 다양한 프로그래밍 언어와 프레임워크를 학습하고 있습니다.  
-학교에서는 주로 **C, C++, C#, Python, HTML, CSS, JavaScript**를 배웠으며,  
-부트캠프에서는 **Python**을 중심으로 실무에 가까운 프로젝트 경험을 쌓았습니다.  
+학교에서 배운 언어로 **C, C++, C#, HTML, CSS, JavaScript**의 언어를 배웠으며,  
+부트캠프에서는 **Python**을 중심으로 AI 관련 실무에 가까운 프로젝트 경험을 쌓았습니다.  
 
 ---
 
@@ -20,7 +20,7 @@
 - 웹 애플리케이션 개발
 
 ### 🤔 I’m looking for help with
-- 대규모 웹 애플리케이션 설계
+- AI 데이터 분석
 - 클라우드 환경 배포(AWS, GCP 등)
 
 ### 💬 Ask me about
@@ -29,7 +29,7 @@
 - Flask 웹 프로젝트 구조
 
 ### 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: kbkr504@naver.com
 - GitHub Issues 또는 Discussions
 
 ### ⚡ Fun fact
