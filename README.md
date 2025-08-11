@@ -39,7 +39,7 @@ At bootcamp, I focused on **Python** for AI and data analysis, gaining hands-on 
 - **Fishing Spot Map Web App** | Flask, JavaScript, Kakao Maps API  
   - 전국 낚시터 위치와 날씨 정보를 연동한 지도 서비스  
   - 사용자 검색 및 즐겨찾기 기능 구현  
-  - [🔗 GitHub Repo](https://github.com/your-repo)
+  - [🔗 GitHub Repo]([https://github.com/your-repo](https://github.com/kiwime720/FishingPlus))
 
 ---
 
