@@ -56,7 +56,7 @@ At bootcamp, I focused on **Python** for AI and data analysis, gaining hands-on 
 
 ### 🛠 Skills (with Level, almost Intermediate)
 - **Backend**: Python(Intermediate), Flask(Intermediate)
-- **Frontend**: HTML5, CSS3, JavaScript(Intermediate)
+- **Frontend**: HTML5(Intermediate), CSS3(beginner), JavaScript(Intermediate)
 - **Data Analysis**: Pandas, NumPy, Matplotlib
 - **Other**: Git, GitHub
 
