@@ -35,17 +35,39 @@ At bootcamp, I focused on **Python** for AI and data analysis, gaining hands-on 
 
 ---
 
-### 🔭 I’m currently working on
-- 학부 수업 및 개인 프로젝트 (Major classes & personal projects)
-- Python 및 Flask 기반 웹 개발 (Developing Web Apps with Python & Flask)
+### 🚀 Projects
+- **Fishing Spot Map Web App** | Flask, JavaScript, Kakao Maps API  
+  - 전국 낚시터 위치와 날씨 정보를 연동한 지도 서비스  
+  - 사용자 검색 및 즐겨찾기 기능 구현  
+  - [🔗 GitHub Repo](https://github.com/your-repo)
 
-### 🤔 I’m looking for help with
-- AI 데이터 분석 (AI data analysis)
+---
 
-<!--### 💬 Ask me about
-- Python 개발
-- Flask 웹 프로젝트 구조
+<!--### 💼 Experience
+
+
+---
+
+### 🏅 Certifications
+
+
+---
 -->
 
+### 🛠 Skills (with Level, almost Intermediate)
+- **Backend**: Python(Intermediate), Flask(Intermediate)
+- **Frontend**: HTML5, CSS3, JavaScript(Intermediate)
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Other**: Git, GitHub
+
+---
+
+### 🎯 Goals
+- Flask + AI 결합 웹 서비스 배포
+- 데이터 분석 기반 서비스 기획 및 개발 역량 강화
+
+---
+
 ### ⚡ Fun fact
-- 운동을 좋아하며 특히 야구를 좋아합니다. 그리고 만화를 좋아합니다.(I like to workout. especially baseball. And like cartoon such as Korea, Japen, and U.S)
+- 운동을 좋아하며 특히 야구를 좋아합니다.  
+- 만화를 좋아합니다. (Korea, Japan, U.S)
